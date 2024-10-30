@@ -1,6 +1,6 @@
 # How-to-Change-the-Color-of-the-Entire-Border-in-.NET-MAUI-ComboBox-on-Windows-and-Android-Platform
 This repository contains a sample explaining how to Change the Color of the Entire Border in .NET MAUI ComboBox on Windows and Android Platform
-## Customizing Floating Hint Label
+## Customizing ComboBox Border
 
 To customize the border color of the .NET MAUI ComboBox (SfComboBox) on Windows and Android platforms, you can create a full border effect by wrapping the ComboBox within a Border control and setting ShowBorder="False" on the ComboBox itself. This allows full control over the ComboBox border’s color, thickness, and shape. Here’s an example:
 
